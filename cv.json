@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Marco Cristofano",
+    "label": "Programador Backend Python",
+    "image": "",
+    "email": "marco.cristofano.dev@gmail.com",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "postalCode": "CA 1900",
+      "city": "La Plata",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    }
+  },
+  "work": [{
+    "name": "LINTI",
+    "position": "Desarollador Python",
+    "startDate": "2019-02-01",
+    "endDate": "Actualidad",
+    "summary": "Desarrollo del Sistema de Gestión para entidades deportivas mediante la utilización del Framework Django (Python). Investigación y Desarrollo en el área de Internet en las cosas.",
+  },
+  {
+    "name": "MHYF de la Provincia de Bueno Aires",
+    "position": "Asesor - Desarollador Python",
+    "startDate": "2020-03-01",
+    "endDate": "Actualidad",
+    "summary": "Asesor en el Análisis de Datos contratado para el Programa de Fortalecimiento de la capacidad de Gestión de la Provincia de Buenos Aires. Desarrollo mediante la utilización del Framework Django (Python).",
+  },
+  {
+    "name": "Facultad de Informática-UNLP ",
+    "position": "Facultad de Informática-UNLP / Ayudante Diplomado",
+    "startDate": "2021-07-01",
+    "endDate": "Actualidad",
+    "summary": "Ayudante Diplomado de Redes y Comunicaciones y Proyecto de Software..",
+  }
+],
+  "education": [{
+    "institution": "Universidad Nacional de La Plata",
+    "url": "https://unlp.edu.ar/",
+    "area": "Ingenierio en Computación",
+    "studyType": "Bachelor",
+    "startDate": "2013-01-01",
+    "endDate": "2019-01-01",
+    "score": "7.88",
+  }],
+  "skills": [{
+    "name": "Lenguajes de programación",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+    ]
+  },{
+    "name": "Bases de datos",
+    "keywords": [
+      "PostgreSQL",
+      "SQLite",
+    ]
+  },{
+    "name": "Frameworks",
+    "keywords": [
+      "Django",
+      "Flask",
+    ]
+  },{
+    "name": "Devops",
+    "keywords": [
+      "docker",
+      "docker-compose",
+    ]
+  }
+],
+  "languages": [{
+    "language": "Español",
+    "fluency": "Nativo"
+  }],
+}
